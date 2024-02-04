@@ -1,8 +1,7 @@
 <img style="width:100%" src="https://i.imgur.com/WtVOjr6.gif" />
 
 
-### Всемм привет / Hi there
-### меня зовут Илья и я frontend-разработчик
+### Всемм привет меня зовут Илья и я frontend-разработчик
 
 
 
@@ -10,6 +9,9 @@
 - 📱 Мой телеграмм: https://t.me/warpBes
 
 ![CodeWars](https://www.codewars.com/users/IlyaBes/badges/large)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliabes&theme=github_dark)
+
 ### Мои стек
 <div>
 <img style="height:20px" src="https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222"/>
