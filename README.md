@@ -1,7 +1,7 @@
 <img style="width:100%" src="https://i.imgur.com/WtVOjr6.gif" />
 
 
-### Всемм привет меня зовут Илья и я frontend-разработчик
+### Всем привет меня зовут Илья и я frontend-разработчик
 
 
 
@@ -12,7 +12,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliabes&theme=github_dark)
 
-### Мои стек
+### Мой стек
 <div>
 <img style="height:20px" src="https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222"/>
 <img style="height:20px" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
